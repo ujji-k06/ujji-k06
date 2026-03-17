@@ -1,6 +1,6 @@
-# Hi, I'm Ujjwal
+# Hi, I'm Ujji
 
-I’m a beginner freelance developer focused on building simple, useful, and clean applications.
+I'm a university student who is freelancing on the side.
 
 ## Skills
 - Python
