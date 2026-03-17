@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Ujjwal
 
-<!--
-**ujji-k06/ujji-k06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a beginner freelance developer focused on building simple, useful, and clean applications.
 
-Here are some ideas to get you started:
+## Skills
+- Python
+- JavaScript
+- HTML/CSS
+- Git/GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Portfolio Website
+- Task Manager App
+- Weather App
+
+## Links
+- Fiverr
+- LinkedIn
+- Portfolio Website
