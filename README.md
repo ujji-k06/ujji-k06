@@ -14,6 +14,6 @@ I'm a university student who is freelancing on the side.
 - Weather App
 
 ## Links
-- Fiverr [https://www.fiverr.com/seller_dashboard]
-- LinkedIn [https://www.linkedin.com/in/ujjikharola06/?trk=opento_sprofile_topcard]
+- Fiverr [https://www.fiverr.com/sellers/ujji_k06/]
+- LinkedIn [www.linkedin.com/in/ujjikharola06]
 - Portfolio Website [Unfinished]
