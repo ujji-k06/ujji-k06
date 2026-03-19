@@ -4,7 +4,7 @@ I'm a university student who is freelancing on the side.
 
 ## Skills
 - C++
-- Lua/LuaC
+- Lua
 - Python
 - JavaScript
 - HTML/CSS
