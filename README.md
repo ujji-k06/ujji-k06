@@ -3,6 +3,8 @@
 I'm a university student who is freelancing on the side.
 
 ## Skills
+- C++
+- Lua/LuaC
 - Python
 - JavaScript
 - HTML/CSS
@@ -10,8 +12,6 @@ I'm a university student who is freelancing on the side.
 
 ## Projects
 - Portfolio Website
-- Task Manager App
-- Weather App
 
 ## Links
 - Fiverr [https://www.fiverr.com/sellers/ujji_k06/]
