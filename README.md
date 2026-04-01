@@ -4,11 +4,17 @@ I'm a university student who is freelancing on the side.
 
 ## Skills
 - C++
-- Lua
 - Python
 - JavaScript
 - HTML/CSS
 - Git/GitHub
+- LuaU
+
+## Advanced Roblox Scripter
+
+I also build polished and scalable Roblox systems, including combat, abilities, AI, inventories, and full gameplay frameworks.
+
+Check out my repositories to see my work.
 
 ## Projects
 - Portfolio Website
@@ -16,4 +22,4 @@ I'm a university student who is freelancing on the side.
 ## Links
 - Fiverr [https://www.fiverr.com/sellers/ujji_k06/]
 - LinkedIn [www.linkedin.com/in/ujjikharola06]
-- Portfolio Website [https://ujji-k06.github.io/portfolio/]
+- Portfolio Website [ NOT YET COMPLETE ] 
