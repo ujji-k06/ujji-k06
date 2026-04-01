@@ -1,6 +1,6 @@
 # Hi, I'm Ujji
 
-I'm a university student who is freelancing on the side.
+I'm a university student who is freelancing on the side. Right now I have a lot of free time, and I'm fully available until September this year.
 
 ## Skills
 - C++
