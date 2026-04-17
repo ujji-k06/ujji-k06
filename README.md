@@ -12,9 +12,7 @@ I'm a university student who is freelancing on the side. Right now I have a lot 
 
 ## Advanced Roblox Scripter
 
-I also build polished and scalable Roblox systems, including combat, abilities, AI, inventories, and full gameplay frameworks.
-
-Check out my repositories to see my work.
+Check out my other work.
 [https://github.com/ujji-k06/robloxportfolio]
 
 ## Projects
