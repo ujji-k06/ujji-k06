@@ -13,7 +13,7 @@ I'm a university student who is freelancing on the side. Right now I have a lot 
 ## Advanced Roblox Scripter
 
 Check out my other work.
-[https://github.com/ujji-k06/robloxportfolio]
+[https://ujji-k06.github.io/RobloxPortfolio/]
 
 ## Projects
 - Portfolio Website
