@@ -7,8 +7,8 @@ Just working on some stuff..
 - Python
 - JavaScript
 - HTML/CSS
-- Git/GitHub
 - LuaU
+- React/TypeScript
 
 ## Check out my roblox portfolio
 [https://ujji-k06.github.io/RobloxPortfolio/]
