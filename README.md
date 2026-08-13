@@ -1,14 +1,29 @@
-# Hello!
+# Ujji — Software & Game Developer
 
-Just working on some stuff..
+I build reliable game systems, developer tools and web experiences.
 
-## Skills
-- C++
-- Python
-- JavaScript
-- HTML/CSS
-- LuaU
-- React/TypeScript
+Primarily working with **Luau, Rust, JavaScript, Python and C++**.
+I've been programming for 5+ years and freelancing on Roblox since 2022.
 
-## Check out my roblox portfolio
-[https://ujji-k06.github.io/RobloxPortfolio/]
+[Portfolio] · [Roblox] · Discord: .ujji
+
+## Selected work
+
+### w.i.p
+
+## What I work on
+
+- Gameplay architecture
+- Combat & movement
+- Networking / server authority
+- Data persistence & economies
+- UI systems
+- Developer tooling
+- Web development
+
+## Currently
+
+Building new software projects and available for selected
+commission / development work.
+
+→ See my work: [empty]
