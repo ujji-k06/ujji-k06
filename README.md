@@ -3,7 +3,7 @@
 I build reliable game systems, developer tools and websites.
 
 Primarily working with **Luau, Rust, JavaScript, Python and C++**.
-I've been teaching myself programming for 5+ years and freelancing on Roblox since 2022.
+I've been teaching myself programming for 5+ years and freelance regularly. Actively looking for commissions.
 
 ## Selected work
 
