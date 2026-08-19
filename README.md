@@ -1,6 +1,6 @@
 # Hello!
 
-I build reliable game systems, developer tools and web experiences.
+I build reliable game systems, developer tools and websites.
 
 Primarily working with **Luau, Rust, JavaScript, Python and C++**.
 I've been teaching myself programming for 5+ years and freelancing on Roblox since 2022.
