@@ -1,4 +1,4 @@
-# Ujji — Software & Game Developer
+# Ujji
 
 I build reliable game systems, developer tools and web experiences.
 
