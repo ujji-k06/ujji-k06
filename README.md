@@ -7,7 +7,7 @@ I've been teaching myself programming for 5+ years and freelancing on Roblox sin
 
 ## Selected work
 
-### RemoteLens
+### remotelens
 
 Opt-in Roblox networking instrumentation for measuring remote traffic.
 
@@ -30,4 +30,4 @@ Catch broken Rojo projects before Studio does. One binary, rustc-style diagnosti
 Building new software projects and available for selected
 commission / development work.
 
-→ See my work: [RemoteLens](https://github.com/ujji-k06/remotelens) · [rojo-doctor](https://github.com/ujji-k06/rojo-doctor) · [TinyKV](https://github.com/ujji-k06/tinykv)
+→ See my work: [remotelens](https://github.com/ujji-k06/remotelens) · [rojo-doctor](https://github.com/ujji-k06/rojo-doctor) · [tinykv](https://github.com/ujji-k06/tinykv)
