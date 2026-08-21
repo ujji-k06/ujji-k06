@@ -30,4 +30,4 @@ Catch broken Rojo projects before Studio does. One binary, rustc-style diagnosti
 Building new software projects and available for selected
 commission / development work.
 
-→ See my work: [remotelens](https://github.com/ujji-k06/remotelens) · [rojo-doctor](https://github.com/ujji-k06/rojo-doctor) · [tinykv](https://github.com/ujji-k06/tinykv) · [combat-framework](https://github.com/ujji-k06/souls-combat-demo)
+→ See my work: [remotelens](https://github.com/ujji-k06/remotelens) · [rojo-doctor](https://github.com/ujji-k06/rojo-doctor) · [combat-framework](https://github.com/ujji-k06/souls-combat-demo)
